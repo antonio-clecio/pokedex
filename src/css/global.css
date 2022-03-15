@@ -7,7 +7,7 @@ main {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #dadfe8;
+    background: #fff url(https://assets.pokemon.com/static2/_ui/img/chrome/container_bg.png);
 }
 
 .pokedex {
